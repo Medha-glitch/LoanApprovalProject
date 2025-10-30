@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ##  Run the RL Agent
 
-1. Open **`offline_rl_agent.ipynb`**.  
+1. Open **`eda + offline_reinforcement.ipynb`**.  
 2. Run all cells to:
    - Set up the **offline reinforcement learning environment**
    - Define **rewards**
