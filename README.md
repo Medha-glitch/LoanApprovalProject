@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Run the Deep Learning Model
 
-1. Open **`eda_and_dl_model.ipynb`** in **Jupyter Notebook** or **VS Code**.  
+1. Open **`eda + supervised_model.ipynb`** in **Jupyter Notebook** or **VS Code**.  
 2. Run all cells to:
    - Preprocess the dataset  
    - Train the **MLP (Multi-Layer Perceptron)** classifier  
